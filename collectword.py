@@ -5,7 +5,7 @@
 # @FileName: collectwords.py
 # @Software: PyCharm for conda3
 # @Version： V0.1
-import sortedcollections
+
 
 aaalist = []
 aaa = "jack dog cat monkey dog cat monkey monkey dog boy boy dog lion"
